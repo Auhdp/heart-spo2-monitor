@@ -18,4 +18,11 @@ Thiết bị đo nhịp tim và nồng độ oxy trong máu (SpO₂) sử dụng
 - Lưu dữ liệu vào cơ sở dữ liệu MySQL
 - Hiển thị dữ liệu trực quan bằng biểu đồ trên giao diện web
 
+## 🖼️ Giao diện
+![image](https://github.com/user-attachments/assets/d626099c-3d81-4b4c-bbab-e656a14453fd)
 
+## 📝 Tác giả
+
+- **Họ tên:** Huỳnh Đặng Phương Âu  
+- **Vai trò:** Thiết kế – Lập trình – Tích hợp hệ thống  
+- **Sinh viên Công nghệ Kỹ thuật máy tính**
