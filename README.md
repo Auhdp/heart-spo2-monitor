@@ -1,2 +1,21 @@
-# heart-spo2-monitor
-Thiết bị đo nhịp tim và nồng độ SpO₂ bằng MAX30100, hiển thị trên web và lưu dữ liệu
+# Heart Rate and SpO₂ Monitoring System 💓
+
+Thiết bị đo nhịp tim và nồng độ oxy trong máu (SpO₂) sử dụng cảm biến **MAX30100**, kết hợp **ESP8266**, hiển thị dữ liệu real-time trên OLED và giao diện web.
+
+## 🔧 Công nghệ sử dụng
+
+- Ngôn ngữ chính: C++ (Arduino)
+- Cảm biến: MAX30100
+- Vi điều khiển: ESP8266
+- Hiển thị: OLED 0.96"
+- Web: HTML + Chart.js (real-time data)
+- Backend: PHP + MySQL (XAMPP)
+
+## ⚙️ Chức năng chính
+
+- Đo và hiển thị nhịp tim + SpO₂ trên màn hình OLED
+- Gửi dữ liệu thời gian thực qua Wi-Fi đến máy chủ XAMPP
+- Lưu dữ liệu vào cơ sở dữ liệu MySQL
+- Hiển thị dữ liệu trực quan bằng biểu đồ trên giao diện web
+
+
